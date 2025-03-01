@@ -1,0 +1,4 @@
+*.bak
+*.drc
+*.gbr
+*.kicad_pcb-bak
